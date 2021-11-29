@@ -1,2 +1,2 @@
-# proyecto-backend-node-platzi
-Proyecto del curso avanzado de backend con NodeJS 
+# Microservicio de CarritoDeCompras
+Microservicio de CarritoDeCompras de backend con NodeJS 
